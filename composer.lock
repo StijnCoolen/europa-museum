@@ -4301,16 +4301,16 @@
         },
         {
             "name": "nystudio107/craft-seomatic",
-            "version": "3.4.29",
+            "version": "3.4.30",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-seomatic.git",
-                "reference": "6054b698a49ed9d40a049081bfa824cf277f9025"
+                "reference": "238b6936d8e755917e77db6300f9d827eeca2ca2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/6054b698a49ed9d40a049081bfa824cf277f9025",
-                "reference": "6054b698a49ed9d40a049081bfa824cf277f9025",
+                "url": "https://api.github.com/repos/nystudio107/craft-seomatic/zipball/238b6936d8e755917e77db6300f9d827eeca2ca2",
+                "reference": "238b6936d8e755917e77db6300f9d827eeca2ca2",
                 "shasum": ""
             },
             "require": {
@@ -4364,7 +4364,7 @@
             "support": {
                 "docs": "https://nystudio107.com/plugins/seomatic/documentation",
                 "issues": "https://nystudio107.com/plugins/seomatic/support",
-                "source": "https://github.com/nystudio107/craft-seomatic/tree/3.4.29"
+                "source": "https://github.com/nystudio107/craft-seomatic/tree/3.4.30"
             },
             "funding": [
                 {
@@ -4372,7 +4372,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-04-08T22:51:16+00:00"
+            "time": "2022-04-18T22:16:40+00:00"
         },
         {
             "name": "nystudio107/craft-typogrify",
@@ -6005,16 +6005,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v7.123.0",
+            "version": "v7.124.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "4e44559275eb66dc44f14c4c8dd3fedf9ed33ef9"
+                "reference": "548e8ef08a86c6c621446082393dc6a1af51076c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/4e44559275eb66dc44f14c4c8dd3fedf9ed33ef9",
-                "reference": "4e44559275eb66dc44f14c4c8dd3fedf9ed33ef9",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/548e8ef08a86c6c621446082393dc6a1af51076c",
+                "reference": "548e8ef08a86c6c621446082393dc6a1af51076c",
                 "shasum": ""
             },
             "require": {
@@ -6059,9 +6059,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v7.123.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v7.124.0"
             },
-            "time": "2022-04-13T23:12:59+00:00"
+            "time": "2022-04-18T23:07:08+00:00"
         },
         {
             "name": "sunra/php-simple-html-dom-parser",
