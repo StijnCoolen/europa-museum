@@ -58,16 +58,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.220.0",
+            "version": "3.220.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "8beb098a2224742b2756e3b40a07593b1e6ff967"
+                "reference": "1436b69a1e2e8005cc867feb021455ab0a26a30f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/8beb098a2224742b2756e3b40a07593b1e6ff967",
-                "reference": "8beb098a2224742b2756e3b40a07593b1e6ff967",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/1436b69a1e2e8005cc867feb021455ab0a26a30f",
+                "reference": "1436b69a1e2e8005cc867feb021455ab0a26a30f",
                 "shasum": ""
             },
             "require": {
@@ -143,9 +143,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.220.0"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.220.1"
             },
-            "time": "2022-04-19T18:17:15+00:00"
+            "time": "2022-04-20T18:15:52+00:00"
         },
         {
             "name": "carlcs/craft-redactorcustomstyles",
@@ -1862,16 +1862,16 @@
         },
         {
             "name": "google/cloud-core",
-            "version": "v1.44.1",
+            "version": "v1.44.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-core.git",
-                "reference": "897df2db2f0b04c370c44f8564ae3fd69034e273"
+                "reference": "d495545a53479297b440bee499daad50137fd55e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-core/zipball/897df2db2f0b04c370c44f8564ae3fd69034e273",
-                "reference": "897df2db2f0b04c370c44f8564ae3fd69034e273",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-core/zipball/d495545a53479297b440bee499daad50137fd55e",
+                "reference": "d495545a53479297b440bee499daad50137fd55e",
                 "shasum": ""
             },
             "require": {
@@ -1920,22 +1920,22 @@
             ],
             "description": "Google Cloud PHP shared dependency, providing functionality useful to all components.",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-core/tree/v1.44.1"
+                "source": "https://github.com/googleapis/google-cloud-php-core/tree/v1.44.2"
             },
-            "time": "2022-03-30T03:18:53+00:00"
+            "time": "2022-04-20T18:34:50+00:00"
         },
         {
             "name": "google/cloud-storage",
-            "version": "v1.26.1",
+            "version": "v1.26.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-cloud-php-storage.git",
-                "reference": "1382afef595c2ced1c5e39ead91d903e8ebc8e22"
+                "reference": "a515dc6f80bee00ded6364626953b3b8de15c303"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-cloud-php-storage/zipball/1382afef595c2ced1c5e39ead91d903e8ebc8e22",
-                "reference": "1382afef595c2ced1c5e39ead91d903e8ebc8e22",
+                "url": "https://api.github.com/repos/googleapis/google-cloud-php-storage/zipball/a515dc6f80bee00ded6364626953b3b8de15c303",
+                "reference": "a515dc6f80bee00ded6364626953b3b8de15c303",
                 "shasum": ""
             },
             "require": {
@@ -1974,9 +1974,9 @@
             ],
             "description": "Cloud Storage Client for PHP",
             "support": {
-                "source": "https://github.com/googleapis/google-cloud-php-storage/tree/v1.26.1"
+                "source": "https://github.com/googleapis/google-cloud-php-storage/tree/v1.26.2"
             },
-            "time": "2022-01-31T21:39:13+00:00"
+            "time": "2022-04-20T18:34:50+00:00"
         },
         {
             "name": "google/crc32",
