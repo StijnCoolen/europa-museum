@@ -58,16 +58,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.222.4",
+            "version": "3.222.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "a6ea9c9a93b35de272286f1de470eea637109415"
+                "reference": "26596820b043db985bf7c9deb98aa2234f6054cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a6ea9c9a93b35de272286f1de470eea637109415",
-                "reference": "a6ea9c9a93b35de272286f1de470eea637109415",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/26596820b043db985bf7c9deb98aa2234f6054cb",
+                "reference": "26596820b043db985bf7c9deb98aa2234f6054cb",
                 "shasum": ""
             },
             "require": {
@@ -143,9 +143,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.222.4"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.222.5"
             },
-            "time": "2022-05-03T21:08:50+00:00"
+            "time": "2022-05-04T20:25:34+00:00"
         },
         {
             "name": "carlcs/craft-redactorcustomstyles",
@@ -810,16 +810,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "3.7.40",
+            "version": "3.7.40.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "3feb16bdff0cdb1ac347cd746a8a2de3a866859c"
+                "reference": "eb82f866ab3bdf230656fc796ce220b3d014f7df"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/3feb16bdff0cdb1ac347cd746a8a2de3a866859c",
-                "reference": "3feb16bdff0cdb1ac347cd746a8a2de3a866859c",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/eb82f866ab3bdf230656fc796ce220b3d014f7df",
+                "reference": "eb82f866ab3bdf230656fc796ce220b3d014f7df",
                 "shasum": ""
             },
             "require": {
@@ -915,7 +915,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2022-05-03T19:14:01+00:00"
+            "time": "2022-05-04T12:33:25+00:00"
         },
         {
             "name": "craftcms/html-field",
@@ -1074,16 +1074,16 @@
         },
         {
             "name": "craftcms/redactor",
-            "version": "2.10.7",
+            "version": "2.10.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/redactor.git",
-                "reference": "cd61d04644b0c03e69314a442f7a5f63793ea85e"
+                "reference": "cc31c0a64a0a733337218d7ffd08b0424dbd8763"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/redactor/zipball/cd61d04644b0c03e69314a442f7a5f63793ea85e",
-                "reference": "cd61d04644b0c03e69314a442f7a5f63793ea85e",
+                "url": "https://api.github.com/repos/craftcms/redactor/zipball/cc31c0a64a0a733337218d7ffd08b0424dbd8763",
+                "reference": "cc31c0a64a0a733337218d7ffd08b0424dbd8763",
                 "shasum": ""
             },
             "require": {
@@ -1130,7 +1130,7 @@
                 "rss": "https://github.com/craftcms/redactor/commits/v2.atom",
                 "source": "https://github.com/craftcms/redactor"
             },
-            "time": "2022-04-26T17:54:41+00:00"
+            "time": "2022-05-04T19:01:46+00:00"
         },
         {
             "name": "craftcms/server-check",
@@ -5750,16 +5750,16 @@
         },
         {
             "name": "solspace/craft-freeform",
-            "version": "3.13.8",
+            "version": "3.13.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/solspace/craft-freeform.git",
-                "reference": "fe4894a3995fe25cc11ad4e3a6c7edc0c3206340"
+                "reference": "232f8462cc806b8bb4a6c5efe0004d9e0aab5b81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/fe4894a3995fe25cc11ad4e3a6c7edc0c3206340",
-                "reference": "fe4894a3995fe25cc11ad4e3a6c7edc0c3206340",
+                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/232f8462cc806b8bb4a6c5efe0004d9e0aab5b81",
+                "reference": "232f8462cc806b8bb4a6c5efe0004d9e0aab5b81",
                 "shasum": ""
             },
             "require": {
@@ -5824,9 +5824,9 @@
             "description": "Reliable form builder that's ready for wherever your project takes you.",
             "support": {
                 "issues": "https://github.com/solspace/craft-freeform/issues",
-                "source": "https://github.com/solspace/craft-freeform/tree/v3.13.8"
+                "source": "https://github.com/solspace/craft-freeform/tree/v3.13.9"
             },
-            "time": "2022-05-02T19:46:36+00:00"
+            "time": "2022-05-04T21:43:14+00:00"
         },
         {
             "name": "solspace/craft3-commons",
