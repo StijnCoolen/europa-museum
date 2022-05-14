@@ -3790,16 +3790,16 @@
         },
         {
             "name": "mrclay/minify",
-            "version": "3.0.11",
+            "version": "3.0.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mrclay/minify.git",
-                "reference": "f1572a580a8ab29c5c7df4319c4787c74f7dcb3e"
+                "reference": "1962d3614c7ee1795a9fb74e49e603646b34207d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mrclay/minify/zipball/f1572a580a8ab29c5c7df4319c4787c74f7dcb3e",
-                "reference": "f1572a580a8ab29c5c7df4319c4787c74f7dcb3e",
+                "url": "https://api.github.com/repos/mrclay/minify/zipball/1962d3614c7ee1795a9fb74e49e603646b34207d",
+                "reference": "1962d3614c7ee1795a9fb74e49e603646b34207d",
                 "shasum": ""
             },
             "require": {
@@ -3850,10 +3850,10 @@
             "support": {
                 "email": "minify@googlegroups.com",
                 "issues": "https://github.com/mrclay/minify/issues",
-                "source": "https://github.com/mrclay/minify/tree/3.0.11",
+                "source": "https://github.com/mrclay/minify/tree/3.0.12",
                 "wiki": "https://github.com/mrclay/minify/blob/master/docs"
             },
-            "time": "2021-03-11T11:58:14+00:00"
+            "time": "2022-05-14T11:11:27+00:00"
         },
         {
             "name": "mrclay/props-dic",
