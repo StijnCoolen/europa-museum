@@ -5878,16 +5878,16 @@
         },
         {
             "name": "spacecatninja/imager-x",
-            "version": "v3.5.8",
+            "version": "v3.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spacecatninja/craft-imager-x.git",
-                "reference": "96ea09b0fbc9751a548c40eaf262692c1d50aa8a"
+                "reference": "3d64700433640fad0b9040acf1b1d4e79adfdf2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spacecatninja/craft-imager-x/zipball/96ea09b0fbc9751a548c40eaf262692c1d50aa8a",
-                "reference": "96ea09b0fbc9751a548c40eaf262692c1d50aa8a",
+                "url": "https://api.github.com/repos/spacecatninja/craft-imager-x/zipball/3d64700433640fad0b9040acf1b1d4e79adfdf2c",
+                "reference": "3d64700433640fad0b9040acf1b1d4e79adfdf2c",
                 "shasum": ""
             },
             "require": {
@@ -5942,11 +5942,11 @@
                 "transform"
             ],
             "support": {
-                "docs": "http://imager-x.spacecat.ninja/",
+                "docs": "http://imager-x-v3.spacecat.ninja/",
                 "issues": "https://github.com/spacecatninja/craft-imager-x/issues",
-                "source": "https://github.com/spacecatninja/craft-imager-x/tree/v3.5.8"
+                "source": "https://github.com/spacecatninja/craft-imager-x/tree/v3.6.0"
             },
-            "time": "2022-04-29T19:18:51+00:00"
+            "time": "2022-06-12T18:44:59+00:00"
         },
         {
             "name": "ssnepenthe/color-utils",
