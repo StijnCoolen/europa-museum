@@ -919,16 +919,16 @@
         },
         {
             "name": "craftcms/html-field",
-            "version": "1.0.8",
+            "version": "1.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/html-field.git",
-                "reference": "d78adb8babb66290250773de6f135d6cdfa3f5bf"
+                "reference": "c8d58d23fdc8e586eeba29d6805cb868683af6a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/html-field/zipball/d78adb8babb66290250773de6f135d6cdfa3f5bf",
-                "reference": "d78adb8babb66290250773de6f135d6cdfa3f5bf",
+                "url": "https://api.github.com/repos/craftcms/html-field/zipball/c8d58d23fdc8e586eeba29d6805cb868683af6a0",
+                "reference": "c8d58d23fdc8e586eeba29d6805cb868683af6a0",
                 "shasum": ""
             },
             "require": {
@@ -962,7 +962,7 @@
                 "rss": "https://github.com/craftcms/html-field/commits/main.atom",
                 "source": "https://github.com/craftcms/html-field"
             },
-            "time": "2022-06-22T03:58:37+00:00"
+            "time": "2022-06-29T11:06:43+00:00"
         },
         {
             "name": "craftcms/oauth2-craftid",
@@ -1074,16 +1074,16 @@
         },
         {
             "name": "craftcms/redactor",
-            "version": "2.10.8",
+            "version": "2.10.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/redactor.git",
-                "reference": "cc31c0a64a0a733337218d7ffd08b0424dbd8763"
+                "reference": "0045f7f5ecef56b8d36c215a491b5fc7a44b7440"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/redactor/zipball/cc31c0a64a0a733337218d7ffd08b0424dbd8763",
-                "reference": "cc31c0a64a0a733337218d7ffd08b0424dbd8763",
+                "url": "https://api.github.com/repos/craftcms/redactor/zipball/0045f7f5ecef56b8d36c215a491b5fc7a44b7440",
+                "reference": "0045f7f5ecef56b8d36c215a491b5fc7a44b7440",
                 "shasum": ""
             },
             "require": {
@@ -1130,7 +1130,7 @@
                 "rss": "https://github.com/craftcms/redactor/commits/v2.atom",
                 "source": "https://github.com/craftcms/redactor"
             },
-            "time": "2022-05-04T19:01:46+00:00"
+            "time": "2022-06-29T11:37:47+00:00"
         },
         {
             "name": "craftcms/server-check",
@@ -4102,16 +4102,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.58.0",
+            "version": "2.59.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "97a34af22bde8d0ac20ab34b29d7bfe360902055"
+                "reference": "9cea2f72585a46d0651ee6d4c8c8f752e78c16c6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/97a34af22bde8d0ac20ab34b29d7bfe360902055",
-                "reference": "97a34af22bde8d0ac20ab34b29d7bfe360902055",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/9cea2f72585a46d0651ee6d4c8c8f752e78c16c6",
+                "reference": "9cea2f72585a46d0651ee6d4c8c8f752e78c16c6",
                 "shasum": ""
             },
             "require": {
@@ -4126,11 +4126,12 @@
                 "doctrine/orm": "^2.7",
                 "friendsofphp/php-cs-fixer": "^3.0",
                 "kylekatarnls/multi-tester": "^2.0",
+                "ondrejmirtes/better-reflection": "*",
                 "phpmd/phpmd": "^2.9",
                 "phpstan/extension-installer": "^1.0",
-                "phpstan/phpstan": "^0.12.54 || ^1.0",
-                "phpunit/php-file-iterator": "^2.0.5",
-                "phpunit/phpunit": "^7.5.20 || ^8.5.23",
+                "phpstan/phpstan": "^0.12.99 || ^1.7.14",
+                "phpunit/php-file-iterator": "^2.0.5 || ^3.0.6",
+                "phpunit/phpunit": "^7.5.20 || ^8.5.26 || ^9.5.20",
                 "squizlabs/php_codesniffer": "^3.4"
             },
             "bin": [
@@ -4187,15 +4188,19 @@
             },
             "funding": [
                 {
-                    "url": "https://opencollective.com/Carbon",
-                    "type": "open_collective"
+                    "url": "https://github.com/sponsors/kylekatarnls",
+                    "type": "github"
                 },
                 {
-                    "url": "https://tidelift.com/funding/github/packagist/nesbot/carbon",
+                    "url": "https://opencollective.com/Carbon#sponsor",
+                    "type": "opencollective"
+                },
+                {
+                    "url": "https://tidelift.com/subscription/pkg/packagist-nesbot-carbon?utm_source=packagist-nesbot-carbon&utm_medium=referral&utm_campaign=readme",
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-04-25T19:31:17+00:00"
+            "time": "2022-06-26T20:26:59+00:00"
         },
         {
             "name": "nystudio107/craft-minify",
