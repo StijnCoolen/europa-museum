@@ -9203,16 +9203,16 @@
         },
         {
             "name": "wrav/oembed",
-            "version": "1.3.17",
+            "version": "1.3.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wrav/oembed.git",
-                "reference": "0283b61b8362321b10472f81b60c57758a90849f"
+                "reference": "0b08bb5b890cecc612049765005ce761a6c40d43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wrav/oembed/zipball/0283b61b8362321b10472f81b60c57758a90849f",
-                "reference": "0283b61b8362321b10472f81b60c57758a90849f",
+                "url": "https://api.github.com/repos/wrav/oembed/zipball/0b08bb5b890cecc612049765005ce761a6c40d43",
+                "reference": "0b08bb5b890cecc612049765005ce761a6c40d43",
                 "shasum": ""
             },
             "require": {
@@ -9266,9 +9266,9 @@
             "support": {
                 "docs": "https://github.com/wrav/oembed/blob/master/README.md",
                 "issues": "https://github.com/wrav/oembed/issues",
-                "source": "https://github.com/wrav/oembed/tree/1.3.17"
+                "source": "https://github.com/wrav/oembed/tree/1.3.18"
             },
-            "time": "2022-06-24T01:57:02+00:00"
+            "time": "2022-06-30T09:51:33+00:00"
         },
         {
             "name": "yiisoft/yii2",
